@@ -1,0 +1,72 @@
+[
+    {
+    "productID": 1,
+    "productName": "tomatoes",
+    "price": 10,
+    "description": "Fresh Tomatoes from Burkina Faso right at your doorsteps.",
+    "imageUrl": "../../assets/tomatoes.jpg"
+  },
+  {
+    "productID": 2,
+    "productName": "shimeji mushrooms",
+    "price": 10,
+    "description": "From the green forests of Japan, these Shimeji mushrooms will make all your meals a delight.",
+    "imageUrl": "../../assets/mushrooms.jpg"
+  },
+  {
+    "productID": 3,
+    "productName": "carrots",
+    "price": 10,
+    "description": "From the green forests of Japan, these Shimeji mushrooms will make all your meals a delight.",
+    "imageUrl": "../../assets/carrots1.jpg"
+  },
+  {
+    "productID": 4,
+    "productName": "cucumber",
+    "price": 10,
+    "description": "From the green forests of Japan, these Shimeji mushrooms will make all your meals a delight.",
+    "imageUrl": "../../assets/cucumber.jpg"
+  },
+  {
+    "productID": 5,
+    "productName": "onions",
+    "price": 10,
+    "description": "From the green forests of Japan, these Shimeji mushrooms will make all your meals a delight.",
+    "imageUrl": "../../assets/onions.jpg"
+  },
+  {
+    "productID": 6,
+    "productName": "pepper",
+    "price": 10,
+    "description": "From the green forests of Japan, these Shimeji mushrooms will make all your meals a delight.",
+    "imageUrl": "../../assets/pepper.jpg"
+  },
+  {
+    "productID": 7,
+    "productName": "cabbage",
+    "price": 10,
+    "description": "From the green forests of Japan, these Shimeji mushrooms will make all your meals a delight.",
+    "imageUrl": "../../assets/cabbage.jpg"
+  },
+  {
+    "productID": 8,
+    "productName": "banana",
+    "price": 10,
+    "description": "From the green forests of Japan, these Shimeji mushrooms will make all your meals a delight.",
+    "imageUrl": "../../assets/banana.jpg"
+  },
+  {
+    "productID": 9,
+    "productName": "apple",
+    "price": 10,
+    "description": "From the green forests of Japan, these Shimeji mushrooms will make all your meals a delight.",
+    "imageUrl": "../../assets/apple.jpg"
+  },
+  {
+    "productID": 10,
+    "productName": "pineapple",
+    "price": 10,
+    "description": "From the green forests of Japan, these Shimeji mushrooms will make all your meals a delight.",
+    "imageUrl": "../../assets/pineapple.jpg"
+  }
+  ]

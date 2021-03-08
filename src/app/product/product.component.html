@@ -1,0 +1,21 @@
+<div class="row" *ngIf="foodStuff$ | async as foodStuff">
+    <div class="col-md-6" *ngFor="let product of foodStuff"> <!-- Allows the page to display multiple products with one block of code. -->
+        <div class="card">
+            <div class="row">
+                <div class="col-md-3">
+                    <img src={{product.imageUrl}}>
+                </div>
+                <div class="col-md-9 card-container">
+                    <div>
+                        <h6>{{product.productName | uppercase}}</h6>
+                        <p>{{product.description}}</p>
+                    </div>  
+                    <div class="price-footer">
+                        <span style="padding-right: 4px;">{{product.price | currency}}</span>
+                        <span><button class='btn btn-color' (click)='onClick(product, product.productID)'>Buy</button></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
